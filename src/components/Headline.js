@@ -15,7 +15,7 @@ class Headline extends Component {
                 </div>
               </div>
               <div className="col-lg-6 text-center">
-                <div className="rectangle text-muted"><span className="rect-text">500x500</span></div>
+                <div className="mx-auto rectangle text-muted"><span className="rect-text">500x500</span></div>
               </div>
             </div> 
             <hr className="my-5" />
@@ -24,7 +24,7 @@ class Headline extends Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-6 text-center feature-two">
-              <div className="rectangle text-muted"><span className="rect-text">500x500</span></div>
+                <div className="mx-auto rectangle text-muted"><span className="rect-text">500x500</span></div>
               </div>
               <div className="col-lg-6 align-self-center" >
                 <div className="">
@@ -45,7 +45,7 @@ class Headline extends Component {
                 </div>
               </div>
               <div className="col-lg-6 text-center">
-              <div className="rectangle text-muted"><span className="rect-text">500x500</span></div>
+              <div className="mx-auto rectangle text-muted"><span className="rect-text">500x500</span></div>
               </div>
             </div> 
             <hr className="my-5" />

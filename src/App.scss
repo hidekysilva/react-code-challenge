@@ -2,20 +2,20 @@
 
 #carouselExampleIndicators {
   background-color: gray;
-}
 
-.item-container {
-  background-color: gray;
-  color: white;
-  margin-top: 10rem;
+  .item-container {
+    background-color: gray;
+    color: white;
+    margin-top: 10rem;
+  }
 }
 
 .card-container {
   background-color: white;
-}
 
-.card {
-  border: none;
+  .card {
+    border: none;
+  }
 }
 
 .circle {
@@ -30,13 +30,13 @@
   max-width: 500px;
   height: 500px;
   background: #ddd;
-}
 
-.rect-text {
-  vertical-align: top;
-  position: relative;
-  top: 250px;
-  font-size: 24px;
+  .rect-text {
+    vertical-align: top;
+    position: relative;
+    top: 250px;
+    font-size: 24px;
+  }
 }
 
 @include media-breakpoint-up(xs) {
